@@ -15,7 +15,7 @@ Educational institutions rely heavily on campus networks for teaching, learning,
 | File | Description |
 |------|-------------|
 | `Topology of the college network..pkt` | The full Cisco Packet Tracer topology with all security implementations |
-| `Cisco Virtual Cyber Security Internship Report.pdf` | Detailed report documenting the audit, design, and policies |
+| `Project report.pdf` | Detailed report documenting the audit, design, and policies |
 | `README.md` | This file |
 
 ## Security Measures Implemented
